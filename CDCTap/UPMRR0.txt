@@ -1,0 +1,493 @@
+Dump of VRN UPMRR0, created 1982-12-11
+HAL 5, HLP-PF MRR                        1982-01-24
+HAL 5, MPL-PF MRR                        1982-10-15
+HAL 5, SPL-PF MRR                        1981-10-22
+MRRCFFCEWFILE                            1982-10-15
+MRRCNTPACKEWFILE                         1982-07-16
+MRRCOMPILECMREWFILE                      1982-08-23
+MRRCOMPILEMANAGEREWFILE                  1982-08-23
+MRRCOMPILEMESSAGESENDEWFILE              1982-08-23
+MRRCOMPILESSSEWFILE                      1982-08-23
+MRRCONSOLEGUIDEEWFILE                    1980-05-21
+MRREDITOR2SENDOFF                        1982-10-19
+MRRFEMODSEWFILE                          1982-08-08
+MRRFRENDMODSEWFILE                       1982-09-29
+MRRFRENDMODS2EWFILE                      1982-10-22
+MRRGENFONT2EWFILE                        1981-02-05
+MRRHARDYSOFTYEWFILE                      1982-06-26
+MRRIRCPMODSEWFILE                        1982-08-25
+MRRLOADEREWFILE                          1982-04-06
+MRRLOGINMODSEWFILE                       1982-08-03
+MRRMAKEDEADSTARTTAPEEWFILE               1982-08-24
+MRRMAKEFORMATEWFILE                      1982-06-26
+MRRMANAGERMODSEWFILE                     1982-10-21
+MRRMENUEWFILE                            1982-01-11
+MRRPREMODSEWFILE                         1982-08-20
+MRRSCREDITACTIONEWFILE                   1982-09-23
+MRRSCREDITBINARYESCAPESEQUENCES          1982-07-05
+MRRSCREDITBUGSEWFILE                     1982-07-01
+MRRSCREDITDISTRIBUTIONCOPYEWFILE         1982-11-23
+MRRSCREDITDISTRIBUTIONEWFILE             1982-11-22
+MRRSCREDITDISTRIBUTIONNOTESEWFILE        1982-11-22
+MRRSCREDITEPROMINGINSTRUCTIONSEWFILE     1981-12-14
+MRRSCREDITEWFILE                         1982-02-18
+MRRSCREDITWISHLISTEWFILE                 1982-11-04
+MRRSMP130REPLIESEWFILE                   1982-01-27
+MRRTBLMODSEWFILE                         1982-08-20
+MRRTEKSYMEWFILE                          1982-08-04
+MRRTRANCTLEWFILE                         1982-10-01
+MRRVT100ITL                              1982-09-30
+MRRWAITSMOEWFILE                         1977-11-20
+MRRXCONFIGMODSEWFILE                     1982-08-23
+W999APLIB9                               1980-12-16
+MRRSCREDITSMDEWFILE                      1982-12-05
+MRRKENOBI6000ITL                         1982-07-12
+MRRLISTCALLSEWFILE                       1982-07-26
+MRRPLACSUBEWFILE                         1982-06-18
+MRRPUTBINARYCHARSEWFILE                  1982-04-20
+MRRSTRLINEEWFILE                         1982-05-06
+MRRSCREDITESCAPESEQUENCESEWFILE          1982-04-07
+MRRXMTDATAEWFILE                         1981-10-30
+MRRADATERAKSTUFF                         1982-04-10
+MRRBITFUNCEWFILE                         1982-04-21
+MRRDUMPNJOBEWFILE                        1981-10-07
+MRRMAKEREQEWFILE                         1982-01-08
+MRRSCREDITBEFOREMAY1982EWFILE            1982-05-06
+INITFILEFORPN17362INTERACTIVE            1981-12-17
+MRRBALANCEEWFILE                         1982-04-06
+MRRBRSRKEWFILE                           1982-02-28
+MRREI200EWFILE                           1982-03-17
+MRRKENE0BIN                              1982-02-22
+MRRMONOALPHABETICEWFILE                  1982-03-19
+MRROPVISBIN                              1982-03-12
+MRROPVISITL                              1982-03-12
+MRRPLAYFAIREWFILE                        1981-07-23
+MRRPST2ITLEWFILE                         1981-11-09
+MRRPUTBINARYCHAREWFILE                   1982-03-27
+MRRSCREDITDUMMYEWFILE                    1981-11-23
+MRRSCREDITIDECKEWFILE                    1981-11-24
+MRRSCREDITREPORTEWFILE                   1982-01-12
+MRRSCREDITUSCREDEWFILE                   1981-11-25
+MRRSCREDITUSERSEWFILE                    1982-01-26
+MRRSCRREORGEWFILE                        1981-11-19
+MRRTX80288EWFILE                         1981-12-27
+MRRKENE0INTEL                            1982-02-22
+MRRLIMITEDMODSAFEWFILE                   1981-12-09
+MRRLIMITEDMODSAF0EWFILE                  1982-02-03
+MRRLIMITEDMODSFCL5EWFILE                 1982-02-10
+MRRLIMITEDMODSFEEWFILE                   1981-12-08
+MRRLIMITEDMODSFE2EWFILE                  1981-12-09
+MRRLIMITEDMODSFRENDEWFILE                1981-12-08
+MRRLIMITEDMODSMISTICEWFILE               1981-12-22
+MRRLIMITEDMODSNOSBEBEWFILE               1982-01-05
+MRRLIMITEDMODSSCOPEEWFILE                1981-12-09
+MRRLIMITEDMODSSCOPE2EWFILE               1981-12-23
+MRRLIMITEDMODSUTILEWFILE                 1982-01-05
+MRRPASCALBENCHMARKEWFILE                 1982-02-06
+MRRSMPSCREDITENHANCEEWFILE               1981-10-22
+MRRSMP128REPLIESEWFILE                   1981-12-15
+MRRSPESUBROUTINEEWFILE                   1982-01-17
+MRRANNUALREPORTPLOTEWFILE                1980-12-06
+MRRDESTROYSCREDITEWFILE                  1981-12-17
+MRRLAURAPLOTEWFILE                       1981-10-22
+MRRSCREDITINTDOCEWFILE                   1981-11-11
+MRRSMPKEYPUNCHEWFILE                     1981-10-15
+MRRSPEEWFILE                             1982-01-02
+MRRWILFEWFILE                            1981-10-25
+MRRWILF2EWFILE                           1981-10-30
+MRRBREAKUPBASICLINESEWFILE               1981-03-06
+MRRFEDATATESTEWFILE                      1981-12-09
+MRRSMPSCREDITENHANCE                     1981-12-07
+MRRUPDATEDECKLISTEREWFILE                1981-11-18
+ DUMP% 11/10/81 .23.14.29.PN-0117362     1981-11-10
+HAL%TAPES                                1978-07-12
+MRRBRINGINGUPUNIXEWFILE                  1981-10-05
+MRRCOMPASSDECKCREATOREWFILE              1981-06-17
+MRRFLGABTEWFILE                          1981-10-01
+MRRFLGCLREWFILE                          1981-10-02
+MRRFLGSETEWFILE                          1981-10-01
+MRRFLGSHOWEWFILE                         1981-10-02
+MRRGEARREPORTEWFILE                      1981-05-20
+MRRIGLMEMOEWFILE                         1981-09-23
+MRRINITFILEPROGRAMEWFILE                 1980-07-03
+MRRITLRMADEWFILE                         1981-09-29
+MRRNOLDSETEWFILE                         1981-09-09
+MRRSCREDITPL                             1981-11-10
+MRRSMPMANAGEREWFILE                      1981-10-12
+MRRSTIRMSXEWFILE                         1981-11-03
+MRRSUBROUTINEPFERR                       1981-09-30
+MRRULTAPEEWFILE                          1981-07-22
+MRRUNIXOVERVIEWEWFILE                    1981-10-04
+PWPWITL250                               1981-04-07
+UICPL-IGL                                1981-09-24
+MRRSCREDITPROCEDURESEWFILE               1981-06-18
+MRRCKSUMEWFILE                           1981-01-27
+MRRCOL5EWFILE                            1981-09-07
+MRRIGLMACROSEWFILE                       1981-08-18
+MRRITL2REVEWFILE                         1981-02-09
+MRROP1PLOTEWFILE                         1981-02-02
+MRRPLOTFILEDESCRIPTIONEWFILE             1981-07-07
+MRRSCREDITREFERENCECARDEWFILE            1980-10-28
+MRRSUBROUTINEMSG                         1981-09-30
+MRRTEK2CALEWFILE                         1980-10-29
+MRR8TO12EWFILE                           1980-10-18
+      INDEX-0113500                      1981-10-02
+ EXIT(0)%STOP; EXIT(4)%SAVE OVL+NO CRACK 1981-09-03
+MRRATTACHPURGERETURNEWFILE               1980-12-31
+MRRIGLMEMO                               1981-09-23
+MRRIGLMORTRANEWFILE                      1981-08-11
+MRRREDACTPL                              1981-03-12
+ONTELEXEC                                1980-10-28
+EPIPLOT DOCUMENTATION RNF EWFILE         1981-08-22
+EPIPLOT MANUAL                           1981-08-22
+MRRSCREDITDOCUMENTATIONEWFILE            1981-06-04
+MRR EPIPLOT EWFILE                       1981-08-22
+MRRRCVEWEWFILE                           1980-12-02
+MRRREDACTGOEWFILE                        1980-04-30
+MRRFONTCR                                1981-07-20
+MRRGMSPLXE003                            1981-07-18
+MODIFY                                   1981-06-08
+MRRCOMPRESSPAGESEWFILE                   1981-05-20
+MRRROMITEWFILE                           1981-04-21
+MRRTEST2716EWFILE                        1981-03-19
+PWPNEWTXT8080                            1981-03-31
+MRREAMONDOCUMENTATIONEWFILE              1981-06-06
+MRRSTEWFILE                              1981-06-07
+MRR8080CROSSEWFILE                       1981-06-19
+MRRASCTAPEEWFILE                         1981-02-18
+MRRCONVONTELDISEWFILE                    1981-04-28
+MRRGRAPHICSSUBROUTINEEVALUATION          1981-05-12
+MRRONTELDISEWFILE                        1981-04-27
+EPIPLOTMANUAL                            1981-05-06
+MRRCOLEWFILE                             1980-03-06
+MRRDUD                                   1981-04-04
+MRRDUDMODSEWFILE                         1981-04-04
+MRRDUDPL                                 1980-07-11
+MRRPFCCPMODSEWFILE                       1981-04-08
+MRRPUBLICATIONSDUMPNJOBEWFILE            1981-04-07
+MRRPURGEFILESEWFILE                      1981-04-07
+PUBLICATIONSDUMPNJOB                     1981-04-07
+PWPWPLMPROG                              1981-04-29
+PWPPLM                                   1981-04-28
+PWPWFMT732                               1981-04-28
+PWPWPLM                                  1981-04-28
+8080PL                                   1981-04-28
+MRRACROPPARTICLEEWFILE                   1981-03-04
+MRRTEK2CALACROARTICLEEWFILE              1981-04-13
+EWPGOMNIPLOT                             1981-03-29
+MRRCAL2TEKEWFILE                         1981-03-11
+MRRCON027                                1981-03-19
+MRRCOUNTCOMMENTSEWFILE                   1981-03-25
+MRRDOCUMENTATIONEWFILE                   1981-03-12
+MRRGENERATEINCLUDEDIRECTIVESEWFILE       1981-03-13
+MRRINTERFACEBENCHMARKEWFILE              1981-03-20
+MRRSCREDITBOOT                           1981-03-19
+HAL 5, MPL-PF MRR2                       1980-12-10
+MRREAMONMAINHALL                         1981-03-06
+MRREAMON0                                1981-03-06
+MRREAMON3V0                              1981-03-06
+MRREAMON3V1                              1981-03-06
+MRRNEWNAMEEWFILE                         1981-01-13
+MRRPHONESEWFILE                          1980-05-07
+MRRSEQ2RANEWFILE                         1981-02-18
+MRRTCSLEVELITURNBULLEWFILE               1981-02-12
+MRRBINCONVMODSEWFILE                     1981-02-16
+HAL 5, MPL-PF TMM                        1980-09-25
+MRRPLOTTINGPACKAGESEWFILE                1981-02-02
+MRRTAPETESTEWFILE                        1981-01-24
+HAL 5, HLP-PF MRR2                       1980-12-10
+MRRADGMADDBAF                            1981-01-09
+MRRADGMADPROGAF                          1981-01-09
+MRRADGMTHISAF                            1981-01-09
+STEVIEWONDER                             1980-11-18
+MRRTTESTEWFILE                           1980-12-09
+HAL 5, HLP-PF CHIP                       1979-04-23
+MRRPFEXTREWFILE                          1980-11-09
+MRRTAPESPL                               1980-11-06
+HAL-REDACTP-PF REDACT                    1980-05-06
+SJKCIOEWFILE                             1980-11-05
+MRRBUG                                   1980-09-14
+MRRDRIVERMODSEWFILE                      1980-10-03
+MRRDUMPLOTMODSEWFILE                     1980-08-20
+MRRFILEDMPMODSEWFILE                     1980-10-20
+MRRMAILSAVEEWFILE                        1979-11-26
+MRRJCEWFILE                              1980-10-14
+MRRRNFERRSEWFILE                         1980-10-08
+MRRSPITBOLWORDSEWFILE                    1980-09-28
+MRRSCREDITSTATUSEWFILE                   1980-09-24
+RKSREDLISTEWFILE                         1978-03-13
+MRRREADBADPAPERTAPEEWFILE                1980-08-30
+MRRSOFTWAREREPORT                        1979-04-19
+HAL 5, HLP-PF REDACT                     1980-06-02
+HAL 5, MPL-PF MAIL                       1979-10-26
+MRRCOPYBREWFILE                          1980-08-20
+MRRDISPOSEEWFILE                         1980-06-27
+MRRMACHINEEWFILE                         1980-03-05
+MRRMODFILEEWFILE                         1980-07-10
+MRRRDTDUMPEWFILE                         1978-04-28
+MRRSYMPLEWFILE                           1980-08-03
+MRRTEKPLOTEWFILE                         1980-05-27
+MRRWORDMEWFILE                           1980-06-26
+MRRFINDPFEWFILE                          1980-04-29
+MRRSETBITSEWFILE                         1980-03-27
+MRRMEMOEWFILE                            1980-03-27
+MRRMAKSTREWFILE                          1980-02-20
+MRRTIRERATIOEWFILE                       1980-08-08
+DISK-FILE PN-0113500                     1980-04-09
+HAL 5, HLP-PF CHESS                      1980-07-09
+HAL 5, HLP-PF MAIL                       1979-09-13
+HAL 5, HLP-PF MRR0                       1980-04-22
+HAL 5, MPL-PF CHESS                      1980-07-09
+HAL 5, MPL-PF CHIP                       1979-07-26
+HAL 5, MPL-PF MRR0                       1980-04-22
+HAL 5, MPL-PF REDACT                     1980-06-02
+HAL 5, SPL-PF MRR0                       1980-04-22
+HAL%STAT4 MSG                            1977-02-10
+INITFILEFORPN13500INTERACTIVE            1980-07-04
+MRRADBASE2                               1980-03-14
+MRRADINX                                 1980-03-14
+MRRADS                                   1980-07-14
+MRRADSDBEWFILE                           1980-05-03
+MRRADSEWFILE                             1980-05-03
+MRRADSPL                                 1980-05-03
+MRRAD4EWFILE                             1980-03-14
+MRRCERTIF                                1980-05-06
+MRRCL260ASG1                             1979-05-15
+MRRCL260DATA                             1979-05-15
+MRRCL260F                                1979-05-15
+MRRCON1                                  1980-07-17
+MRRCUBEEWFILE                            1980-05-23
+MRRENTEWFILE                             1980-04-22
+MRRFITINFOEWFILE                         1980-05-06
+MRRGENFONTEWFILE                         1979-05-30
+MRRGMS                                   1980-04-10
+MRRGRINDEREWFILE2                        1980-03-12
+MRRGRINDERINTERP                         1980-07-16
+MRRGRINDERINTERPEWFILE                   1980-03-12
+MRRHAL6000EWFILE                         1980-03-24
+MRRJOBCOSTEWFILE                         1980-04-17
+MRRMSGEWFILE                             1980-03-25
+MRRPASXREFEWFILE                         1980-05-18
+MRRPOSTEREWFILE                          1980-05-19
+MRRSCAMPEWFILE                           1980-04-23
+MRRSEGMENTATIONDIRECTIVES                1980-04-30
+MRRSOFTACQEWFILE                         1979-06-14
+MRRSOFTWAREEXEC                          1980-01-25
+MRRSYS1EWFILE                            1980-06-09
+MRRTEKPLOT                               1980-07-18
+MRRTEKTRONIXDEMONSTRATIONEWFILE          1980-05-21
+MRRTEKTRONIXMODSEWFILE                   1980-05-23
+MRRTKDUMPEWFILE                          1980-05-23
+MRRTXT                                   1980-07-16
+MRRUPDATEDECKEWFILE                      1980-05-03
+PN-0111600HELP                FRONTEND   1980-05-06
+PN-0113500MRR                 MICROPRE   1979-10-10
+PN-0113500MRR                 SMP17      1980-05-20
+PN-0113500MRR                 TEST1      1980-05-05
+REDACT PN-0113500                        1978-06-05
+SCAMPMGRPL                               1979-05-23
+SCAMPPL                                  1980-04-06
+TAPE-FILE PN-0113500                     1980-05-13
+TMMABORT                                 1980-07-02
+TMMCOMDAT                                1980-06-24
+TMMDAVERUNEWFILE                         1980-07-03
+TMMDBINB                                 1980-06-24
+TMMDBOV                                  1980-06-24
+TMMDECKEREWFILE                          1980-06-25
+TMMINCDAT                                1980-06-24
+TMMMIKESEWFILE                           1980-05-22
+TMMMTHEWFILE                             1980-05-04
+TMMSCHEDEWFILE                           1980-05-20
+UICPL-PHASE1                             1980-07-02
+UICPL-PHASE2                             1980-06-25
+UICPL-PHASE3                             1980-06-25
+SJKCHESS30PL                             1980-07-11
+XE059CRAPSPL                             1980-07-11
+XE059CHECKERPL                           1980-07-11
+XE059FORTUNEPL                           1980-07-11
+XE059CRAZY8PL                            1980-07-11
+XE059ALLSNOOPIES                         1980-07-11
+XE059SHULTZPL                            1980-07-11
+XE059BACKGAMMONEWFILE2                   1980-07-04
+XE059MONOPOLYPL1                         1980-07-04
+XE059MONOPOLYMODSEWFILE1                 1980-07-04
+MRRMCCULLENADDAT                         1980-05-07
+MRRMCCULLENADFTN                         1980-05-07
+MRRMCCULLENADIO                          1980-05-07
+MRRSCREDITPOCKETEWFILE                   1980-02-22
+MRRCERTIFICATEEWFILE                     1979-05-07
+MRRCODEINDENTEREWFILE                    1977-12-06
+MRRPH1                                   1979-06-01
+REDACTTYPESETEWFILE                      1977-12-13
+MRRREDACTPLOTEWFILE                      1976-07-16
+MRRAD3EWFILE                             1980-03-14
+MRRAD6EWFILE                             1980-03-29
+MRRSCAMPPL                               1980-04-23
+MRRTEKTRONIX                             1980-04-08
+PN-0111600HELP                FRONTEND0  1980-05-06
+SCAMPEDITORCOMMANDBINARY                 1980-04-05
+SCAMPEDITORCOMMANDPL                     1979-05-23
+SCAMPEDITORPL                            1979-05-23
+SCAMPIOPL                                1979-05-23
+SCAMPRMPL                                1979-05-23
+SCAMPUTILITIESPL                         1979-05-23
+TMMHLPFILE                               1980-04-15
+MRRADEWFILE                              1980-03-09
+MRRAD2EWFILE                             1980-03-09
+MRRAD8EWFILE                             1980-04-16
+MRRSERIALEWFILE                          1980-03-11
+MRRTAPEMODEEWFILE                        1980-03-14
+MRRTEKTRONIXCOMBLK                       1979-12-11
+MRRTEKTRONIXTESTEWFILE                   1979-04-19
+HAL-M3CC-PF UIC                          1979-10-01
+HAL-M3CCEW-PF UIC                        1979-09-26
+HAL-M3EW-PF UIC                          1979-09-26
+HAL-M3MP-PF UIC                          1979-12-04
+HAL-M3PRE1EW-PF UIC                      1979-09-26
+HAL-M3PST1-PF UIC                        1979-10-19
+HAL-M3ZIPS-PF UIC                        1979-09-26
+KMRTEKTRONIXPL                           1978-11-03
+MRRCALTEKMODSEWFILE                      1980-01-16
+MRRTEKTRONIXAGIISOURCE                   1980-03-11
+MRRTEKTRONIXCHARGENSOURCE                1980-03-11
+MRRTEKTRONIXTCSSOURCE                    1980-03-11
+MRRTEKTRONIXTCSVERIFICATIONSOURCE        1980-03-11
+APL.MSU.V20000691499                     1979-09-10
+CREATEDELETE                             1977-02-10
+MRRCHP                                   1978-01-25
+MRRCIRCLEEWFILE                          1979-12-04
+MRRCL260POINTS                           1979-05-25
+MRRCOBOLEXECEWFILE                       1979-08-13
+MRRDIANNEEWFILE                          1979-08-27
+MRRDIGITPROGEWFILE                       1979-04-17
+MRREXECMEWFILE                           1979-08-25
+MRRGRINDEREWFILE                         1980-02-28
+MRRMAIL2BATCHEWFILE                      1979-06-13
+MRRMAIL2POSTSRTEWFILE                    1979-06-13
+MRRMAIL2PRESORTEWFILE                    1979-06-13
+MRRRNFBATCHEWFILE                        1979-06-18
+MRRSPITEWFILE                            1979-08-31
+MRRSTRINGEWFILE                          1980-02-12
+PN-0113500ACRO                FTN52      1980-01-28
+PN-0113500CHUCK               MINE       1978-08-31
+UICPL-CALTEK                             1979-10-12
+MRRCIRCLEANDSPIRAL                       1980-01-31
+MRRCRESYMEWFILE                          1980-01-09
+MRRKEYPOL33                              1979-12-06
+MRRMICROTESTPWPEWFILE                    1979-11-29
+CLCEMEDITPL                              1979-05-26
+CLXAMGENPL                               1979-05-26
+MRRCBDOCEWFILE                           1979-06-28
+MRRFREETAPESEWFILE                       1979-06-21
+MRRF45TESTEWFILE                         1979-11-18
+MRRGENFONT                               1979-05-30
+MRRMAILCONVERSEWFILE                     1979-05-18
+MRRMAILMUPDATEEWFILE                     1979-05-18
+COBOLWORKFILE6                           1979-06-04
+MISCURRENTSTATUS                         1979-09-25
+MRRDMPR                                  1979-09-14
+MRRELIZAEWFILE                           1979-07-03
+MRRMAILHIGHKEY                           1979-07-23
+MRRMAILMAILPRINTCCLGO                    1979-09-26
+MRRMAILMAILPRINTEWFILE                   1979-05-18
+MRRMAILMAILPRINTLGO                      1979-09-25
+MRRMAILMASTERFILE                        1979-08-23
+MRRMAILOLDPURCRECCEWFILE                 1979-06-28
+MRRMAILPRINTCCEWFILE                     1979-05-18
+MRRMAILPRINTOLDEWFILE                    1979-09-21
+MRRMAILPURCRECCEWFILE                    1979-05-18
+MRRMAILPURCREEWFILE                      1979-08-13
+MRRMAILPURCRELGO                         1979-08-23
+MRRMAILZIPS                              1979-07-25
+MRRMAILZIPSEWFILE                        1979-07-25
+MRRMAIL2FILESEXEC                        1979-09-24
+CRSTAPESLIST                             1979-06-01
+DOMESTICMAILSORTED                       1979-06-04
+HAL500EWFILE                             1979-06-06
+MRRFONTXXCR                              1979-05-30
+MRRFONTXXGE                              1979-05-30
+SORTEDCAMPUSMAIL                         1979-06-05
+EWNEEDSMOREWORK                          1979-01-22
+MRREX                                    1979-05-23
+MRRPOINTS                                1979-05-23
+PRELOAD                                  1977-10-27
+SPSSTESTGOEWFILE                         1977-10-26
+STIR2901CCANDDATA                        1978-06-23
+ALGOL                                    1977-12-13
+CL410CONTROLCARDLOADINGEWFILE            1978-01-31
+CL410FRAMEEWFILE                         1978-02-10
+CL410TRACKEWFILE                         1978-02-10
+CRS                                      1978-01-15
+CRSCRACK                                 1978-03-07
+CRS123                                   1978-03-08
+CRS1234                                  1978-02-23
+GCSPL                                    1978-03-09
+HAL 4, HLP-PF MRR                        1978-03-09
+HAL 4, HLP-PF REDACT                     1978-03-09
+HAL 4, MPL-PF DMS                        1976-06-12
+HAL 4, MPL-PF REDACT                     1978-03-09
+HAL 4, SPL-PF DMS                        1976-06-12
+HAL 4, SPL-PF MRR                        1978-03-09
+HAL 4, SPL-PF REDACT                     1978-03-09
+MRRPASINDT                               1978-01-04
+MRRREDACTLGO                             1977-12-28
+MRRREDACTLISTPAGINATEEWFILE              1978-01-04
+MRRREDACTMODSEWFILE                      1978-02-27
+MRRREDACTMODSEWFILE2                     1977-12-27
+MRRREDACTPAGINATEEWFILE                  1977-12-13
+MRRREDACTPAGINATE2EWFILE                 1977-12-14
+MRRREDACTTYPESET                         1977-12-12
+MRRTYPESETCODESFORCOMPUGRAPHICS          1978-03-13
+PASINDT                                  1978-02-16
+PFDUMPER                                 1977-12-12
+PFDUMPFLAGGER                            1977-12-12
+PFRETRIEVER                              1977-12-12
+PN-0113504MRR                 TEST1      1977-11-03
+PN-0113504MRR                 TEST2      1977-12-27
+PN-0113504MRR                 TEST3      1977-12-27
+PN-0113504TEST1               X          1977-12-28
+RDTPRN                                   1978-03-09
+REDACT PN-0113504                        1977-10-09
+REDACTBCDFILE                            1977-12-13
+REDACTCOMPASSUTILITIESLGO                1977-12-27
+REDACTDISPOSEFILETOINPUT                 1977-12-13
+REDACTERRORMESSAGES                      1977-12-13
+REDACTEWFILE                             1977-12-13
+REDACTPL                                 1978-03-01
+REDACTPOSTTYPESETEWFILE                  1977-12-13
+REDACTRDTDDMPEWFILE                      1977-12-13
+REDACTRDTGTPIEWFILE                      1977-12-13
+REDACTRECATALOGEWFILE                    1977-12-13
+REDACTRETRIEVEPURGEEWFILE                1977-12-13
+REDACTSEGEWFILE                          1978-03-09
+REDACTTUPDATEEWFILE                      1977-12-13
+CALTEKPL                                 1975-07-24
+CLPLOT1V2PL                              1975-06-11
+GCS2V1MODIFY                             1975-07-03
+MISSOURIPLOTTEXTEWFILE                   1975-07-07
+MRRPLOTROUTINES                          1975-07-24
+TCSEMUEWFILE                             1975-07-24
+TCS3V3PL                                 1975-06-12
+CALCOMPPL                                1977-08-17
+GSIGRAPHICSEMULATORPL                    1977-08-18
+HAL 4, HLP-PF DMS                        1976-06-12
+MRRCALTEKSYMBOL                          1976-08-17
+MRRCOPYTTYEWFILE                         1977-05-08
+MRRGCSDIANNEPHOTO                        1977-08-16
+MRRKATELEYCYBER75                        1976-11-23
+MRRPASCALBATCH                           1976-08-18
+MRRRDTELIMEWFILE                         1977-05-26
+MRRREDACTBATCH                           1976-08-20
+MRRREDACT1V5DOCUMENTATION                1976-08-18
+PN-0111600UG5                 APXA       1977-05-02
+PN-016833 MRR                 GCSCC      1977-05-16
+PN-016833 MRR                 NEWS       1976-08-16
+PN-016833 NEWS                NEWS       1976-08-16
+RDTPRN                                   1976-09-21
+REDACT PN-016833                         1976-07-11
+CRSMASTEREWFILE                          1977-08-23
+GETPGLINEEWFILE                          1978-03-29
+PAGINATEBIGEWFILE                        1978-06-02
+PAGINATEREDACT                           1978-06-08
+PGRESERVEEWFILE                          1978-06-08
+SETPGUNITSEWFILE                         1978-06-08
