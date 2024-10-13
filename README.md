@@ -5,3 +5,6 @@ These utilities manipulate files originally used on CDC 6000-style mainframes.
 
 See the repository DtCyber (not written by me) for software that does the
 actual CDC 6000 emulation.
+
+This code was originally written in 2003 by Mark Riordan, for Windows only.
+
