@@ -8,6 +8,7 @@
 #endif
 
 #include <stdio.h>
+#include <ctype.h>
 #include <inttypes.h> // LLVM requires this for PRIo64
 #include "MRRCDCUtils.h"
 
@@ -83,14 +84,28 @@ void WordTo6BitBytes(CDCWord word60, unsigned char *chars)
  *
  *  Entry:  word60   is a 60-bit word.
  */
-void DumpCDCWord(CDCWord word60)
+void DumpCDCWord(CDCWord word60, FormatType format)
 {
-   printf("%-20.20" PRIo64 " ", word60);
-   unsigned char cdcchars[10];
-   WordTo6BitBytes(word60, cdcchars);
-   for(int j=0; j<10; j++) {
-      putchar(cdc2asc_nocolon_table[cdcchars[j]]);
+   char line[80];
+   char *pch;
+   pch = line + sprintf(line, "%-20.20" PRIo64 " ", word60);
+   if(FORMAT_DISPLAYCODE==format) {
+      unsigned char cdcchars[10];
+      WordTo6BitBytes(word60, cdcchars);
+      for(int j=0; j<10; j++) {
+         *(pch++) = cdc2asc_nocolon_table[cdcchars[j]];
+      }
+   } else if(FORMAT_ASCII==format) {
+      for(int j=59; j>0; j-=12) {
+         int ch = GetBitsFromWord(word60, j, 12);
+         if(!isprint(ch)) {
+            *(pch++) = '.';
+         } else {
+            *(pch++) = (char) ch;
+         } 
+      }
    }
-   putchar('\n');
-}
+   *pch = '\0';
 
+   puts(line);
+}

@@ -10,11 +10,13 @@ typedef int BOOL;
 
 #include "cset.h"
 
+typedef enum {FORMAT_NONE, FORMAT_DISPLAYCODE, FORMAT_ASCII} FormatType;
+
 int GetBitsFromWord(CDCWord word60, int bit_start, int nbits);
 int GetCDCChar(CDCWord word60, int idx);
 char GetCDCCharAsASCII(CDCWord word60, int idx);
 void GetCDCCharsAsASCII(CDCWord word60, int first, int nchars, char *szOut);
 void WordTo6BitBytes(CDCWord word60, unsigned char *chars);
-void DumpCDCWord(CDCWord word60);
+void DumpCDCWord(CDCWord word60, FormatType format);
 
 #endif
