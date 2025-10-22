@@ -5,8 +5,14 @@
 //
 // Mark Riordan  2 August 2003
 
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Wdeprecated-declarations"
+#pragma clang diagnostic ignored "-Wformat-security"
+#endif
+
 #include <stdio.h>
-#include <io.h>
+//#include <io.h>
 #include <string.h>
 #include <stdlib.h>
 #include "../MRRCDCUtils.h"

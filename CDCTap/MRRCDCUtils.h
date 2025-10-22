@@ -1,7 +1,7 @@
 // MRRCDCUtils.h
 #ifndef MRRDEFS_INCLUDED
 #define MRRDEFS_INCLUDED
-typedef __int64 CDCWord;
+typedef __int64_t CDCWord;
 typedef int BOOL;
 #define TRUE 1
 #define FALSE 0

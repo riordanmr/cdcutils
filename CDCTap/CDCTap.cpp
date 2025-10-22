@@ -6,12 +6,13 @@
 // -a pfload \DtCyber\tapes\mrr_up1821_1600bpi.tap -m MRRSEGMENTATIONDIRECTIVES*
 
 #include <stdio.h>
-#include <io.h>
+// #include <io.h>
 #include <string.h>
 #include <stdlib.h>
+#include <ctype.h>
 #include "TapeImage.h"
 #define MAIN
-#include "MRRCDCUtils.h"
+#include "../MRRCDCUtils.h"
 
 enum enum_action {ACTION_NONE, ACTION_DUMPRAW, ACTION_DUMPAF, ACTION_PFLIST, ACTION_PFLOAD}
       action = ACTION_NONE;

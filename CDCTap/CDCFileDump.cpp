@@ -28,7 +28,7 @@ int main(int argc, char *argv[])
       }
 
       do {
-         __int64 word60;
+         __int64_t word60;
          unsigned char cdcchars[10];
          int nitems = fread(&word60, 8, 1, fileIn);
          if(0==nitems) break;
