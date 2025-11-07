@@ -83,6 +83,9 @@ void WordTo6BitBytes(CDCWord word60, unsigned char *chars)
  *  Display a single 60-bit word in octal and display code (as ASCII).
  *
  *  Entry:  word60   is a 60-bit word.
+ *          format   is FORMAT_DISPLAYCODE to interpret as 
+ *                     10 display code chars or FORMAT_ASCII to interpret 
+ *                     as 5 12-bit ASCII chars.
  */
 void DumpCDCWord(CDCWord word60, FormatType format)
 {
